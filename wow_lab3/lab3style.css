@@ -1,0 +1,64 @@
+*{margin:0px; padding:0px;}
+body
+{
+
+}
+#all
+{ 
+
+margin:0 auto;
+background-color:#ccc;
+width:960px; 
+ 
+}
+
+#hed
+{
+ margin:10px auto; 
+ text-align:center;
+ width:200px;
+ font-size: 1.3em;
+border:1px dashed red;
+background-color:#C98FC5;
+}
+#contents
+{
+  padding:10px 20px;
+ background-color:#ccc;
+  border:1px solid red;
+  
+}
+#suc
+{
+text-align:center;
+background-color:#ccc;
+padding:10px;
+}
+
+.ghed
+{
+ padding-top:5px;
+ border:1px solid red;
+ background-color:#5FFA6F;
+ margin-bottom:30px;
+}
+
+.mochou 
+{
+ size:2em;
+ color:blue;
+ background-color:pink;
+}
+.zhuangbei
+{
+
+ background-color:white;
+ padding:5px;
+}
+#footer
+{
+margin:20px auto;
+border-top:1px solid red;
+font-size:1.5em;
+text-align:center;
+ }
